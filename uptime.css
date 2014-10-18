@@ -88,25 +88,3 @@ body {
 	margin: 2px 10px 2px 10px;
 }
 
-#copyright a, a:hover, a:visited {
-	font-family: 'ITCFranklinGotDemiXCompressed', sans-serif;
-	text-transform: uppercase;
-	text-decoration: none;
-	color: #e3dbcc;
-	position: absolute;
-	font-size: 14px;
-	bottom: 5px;
-	margin-left: 10px;
-}
-
-#powered {
-	background-image: url("pingdom.gif");
-	position: absolute; 
-	bottom: 5px; 
-	right: 0;
-	margin-right: 10px; 
-	height: 60px; 
-	width: 225px; 
-	border: none;
-}
-

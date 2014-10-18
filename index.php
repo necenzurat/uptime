@@ -59,9 +59,5 @@ date_default_timezone_set('Europe/Bucharest');
 			<div class='caption-inner'>Accidents are avoidable</div>
 		</div>
 	</div>
-	<div id='copyright'>
-		<a href='http://necenzurat.com' target='_blank'>&copy; necenzurat</a>
-	</div>
-	<a href='http://pingdom.com' target='_blank'><div id='powered'></div></a>
 </body>
 </html>
